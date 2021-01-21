@@ -1,3 +1,3 @@
-# template-literals Nivell 2 Exercici 1
+# template-literals Nivell 2 Exercici 2
 
-Función que lee nuestro nombre y apellidos de un ar de variables y lo imprime consola (saluda).
+Ahora la función nos saluda desde en medio de una expresión literal... cosas veredes, Sancho.
