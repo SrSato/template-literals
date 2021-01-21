@@ -1,5 +1,5 @@
 var name="Sera";
-var surname"Martín";
+var surname="Martín";
 
 function saluda(nombre,apellido){
 	console.log(`Hola, me llamo ${nombre} ${apellido}`);
