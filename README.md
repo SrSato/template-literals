@@ -1,3 +1,3 @@
-# template-literals Nivell 1 Exercici 1
+# template-literals Nivell 2 Exercici 1
 
-Función básica que imprime nuestro nombre por consola (saluda).
+Función que lee nuestro nombre y apellidos de un ar de variables y lo imprime consola (saluda).

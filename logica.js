@@ -1,5 +1,8 @@
-function saluda(nombre){
-	console.log("Hola, me llamo "+nombre);
+var name="Sera";
+var surname"Martín";
+
+function saluda(nombre,apellido){
+	console.log(`Hola, me llamo ${nombre} ${apellido}`);
 }
 
-saluda("Sera");
+saluda(name,surname);
