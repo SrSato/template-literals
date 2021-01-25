@@ -1,3 +1,3 @@
-# template-literals Nivell 2 Exercici 2
+# template-literals Nivell 3 Exercici 1
 
-Ahora la función nos saluda desde en medio de una expresión literal... cosas veredes, Sancho.
+Amontonamos funciones y las ejecutamos con poco código.
