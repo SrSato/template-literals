@@ -1,3 +1,3 @@
-# template-literals Nivell 3 Exercici 1
+# template-literals Nivell 3 Exercici 2
 
-Amontonamos funciones y las ejecutamos con poco código.
+Función anónima igualada a una variable que nos imprime un nombre pasado como parámetro.
